@@ -1,4 +1,4 @@
-package datastore
+package lib
 
 import (
 	"google.golang.org/appengine/datastore"
